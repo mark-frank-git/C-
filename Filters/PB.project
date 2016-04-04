@@ -1,0 +1,115 @@
+{
+    CURRENTLY_ACTIVE_VERSION = YES; 
+    DEPLOY_WITH_VERSION_NAME = A; 
+    DYNAMIC_CODE_GEN = YES; 
+    FILESTABLE = {
+        FRAMEWORKS = (
+            C_Libraries.framework, 
+            DataIO.framework, 
+            GNU.framework, 
+            Polynomials.framework, 
+            Specfuns.framework
+        ); 
+        FRAMEWORKSEARCH = ("$(FRAME_PATH)"); 
+        H_FILES = (
+            AbstractFilter.h, 
+            AbstractFIR.h, 
+            AnalogFilter.h, 
+            ComplexDigitalFilter.h, 
+            ComplexFilter.h, 
+            ComplexFIR.h, 
+            DataWindow.h, 
+            Decimator.h, 
+            DelayFIR.h, 
+            DigitalFilter.h, 
+            FFFBFilter.h, 
+            FilterInterpolator.h, 
+            FIRFilter.h, 
+            IIRFilter.h, 
+            Interpolator.h, 
+            MAFIR.h, 
+            PolyphaseDecimator.h, 
+            PolyphaseDelay.h, 
+            PolyphaseFilter.h, 
+            PolyphaseInterpolator.h, 
+            RCPolyphaseFilter.h, 
+            RealFilter.h, 
+            remez.h, 
+            RemezFIR.h
+        ); 
+        OTHER_LINKED = (
+            AbstractFilter.cc, 
+            AbstractFIR.cc, 
+            AnalogFilter.cc, 
+            ComplexDigitalFilter.cc, 
+            ComplexFilter.cc, 
+            ComplexFIR.cc, 
+            DataWindow.cc, 
+            Decimator.cc, 
+            DelayFIR.cc, 
+            DigitalFilter.cc, 
+            FFFBFilter.cc, 
+            FilterInterpolator.cc, 
+            FIRFilter.cc, 
+            IIRFilter.cc, 
+            Interpolator.cc, 
+            MAFIR.cc, 
+            PolyphaseDecimator.cc, 
+            PolyphaseDelay.cc, 
+            PolyphaseFilter.cc, 
+            PolyphaseInterpolator.cc, 
+            RCPolyphaseFilter.cc, 
+            RealFilter.cc, 
+            remez.cc, 
+            RemezFIR.cc
+        ); 
+        OTHER_SOURCES = (Makefile.preamble, Makefile, Makefile.postamble, m.template, h.template); 
+        PRECOMPILED_HEADERS = (); 
+        PROJECT_HEADERS = (); 
+        PUBLIC_HEADERS = (
+            AnalogFilter.h, 
+            DataWindow.h, 
+            DelayFIR.h, 
+            PolyphaseDelay.h, 
+            RealFilter.h, 
+            RemezFIR.h, 
+            AbstractFilter.h, 
+            AbstractFIR.h, 
+            ComplexDigitalFilter.h, 
+            ComplexFilter.h, 
+            Decimator.h, 
+            DigitalFilter.h, 
+            FFFBFilter.h, 
+            FilterInterpolator.h, 
+            FIRFilter.h, 
+            IIRFilter.h, 
+            Interpolator.h, 
+            MAFIR.h, 
+            PolyphaseDecimator.h, 
+            PolyphaseFilter.h, 
+            PolyphaseInterpolator.h, 
+            remez.h, 
+            RCPolyphaseFilter.h, 
+            ComplexFIR.h
+        ); 
+        SUBPROJECTS = (); 
+    }; 
+    LANGUAGE = English; 
+    LOCALIZABLE_FILES = {}; 
+    MAKEFILEDIR = "$(NEXT_ROOT)/Developer/Makefiles/pb_makefiles"; 
+    NEXTSTEP_BUILDTOOL = /bin/gnumake; 
+    NEXTSTEP_INSTALLDIR = "$(HOME)/Library/Frameworks"; 
+    NEXTSTEP_JAVA_COMPILER = /usr/bin/javac; 
+    NEXTSTEP_OBJCPLUS_COMPILER = /usr/bin/cc; 
+    PDO_UNIX_BUILDTOOL = $NEXT_ROOT/Developer/bin/make; 
+    PDO_UNIX_JAVA_COMPILER = "$(JDKBINDIR)/javac"; 
+    PDO_UNIX_OBJCPLUS_COMPILER = "$(NEXTDEV_BIN)/gcc"; 
+    PROJECTNAME = Filters; 
+    PROJECTTYPE = Framework; 
+    PROJECTVERSION = 2.8; 
+    WINDOWS_BUILDTOOL = $NEXT_ROOT/Developer/Executables/make; 
+    WINDOWS_COMPILEROPTIONS = "-O3"; 
+    WINDOWS_INSTALLDIR = "$(FRAME_PATH)"; 
+    WINDOWS_JAVA_COMPILER = "$(JDKBINDIR)/javac.exe"; 
+    WINDOWS_OBJCPLUS_COMPILER = "$(DEVDIR)/gcc"; 
+}

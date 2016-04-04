@@ -1,0 +1,38 @@
+{
+    CURRENTLY_ACTIVE_VERSION = YES; 
+    DEPLOY_WITH_VERSION_NAME = A; 
+    DYNAMIC_CODE_GEN = YES; 
+    FILESTABLE = {
+        FRAMEWORKS = (
+            C_Libraries.framework, 
+            GSLSpecfuns.framework, 
+            Polynomials.framework, 
+            Specfuns.framework
+        ); 
+        FRAMEWORKSEARCH = ("$(FRAME_PATH)"); 
+        H_FILES = (RandomDist.h, mtrand.h, UniformNumber.h); 
+        OTHER_LINKED = (mtrand.cc, RandomDist.cc, UniformNumber.cc); 
+        OTHER_SOURCES = (Makefile.preamble, Makefile, Makefile.postamble, m.template, h.template); 
+        PRECOMPILED_HEADERS = (); 
+        PROJECT_HEADERS = (); 
+        PUBLIC_HEADERS = (RandomDist.h, UniformNumber.h); 
+    }; 
+    LANGUAGE = English; 
+    LOCALIZABLE_FILES = {}; 
+    MAKEFILEDIR = "$(NEXT_ROOT)/Developer/Makefiles/pb_makefiles"; 
+    NEXTSTEP_BUILDTOOL = /bin/gnumake; 
+    NEXTSTEP_INSTALLDIR = "$(HOME)/Library/Frameworks"; 
+    NEXTSTEP_JAVA_COMPILER = /usr/bin/javac; 
+    NEXTSTEP_OBJCPLUS_COMPILER = /usr/bin/cc; 
+    PDO_UNIX_BUILDTOOL = $NEXT_ROOT/Developer/bin/make; 
+    PDO_UNIX_JAVA_COMPILER = "$(JDKBINDIR)/javac"; 
+    PDO_UNIX_OBJCPLUS_COMPILER = "$(NEXTDEV_BIN)/gcc"; 
+    PROJECTNAME = RandomDist; 
+    PROJECTTYPE = Framework; 
+    PROJECTVERSION = 2.8; 
+    WINDOWS_BUILDTOOL = $NEXT_ROOT/Developer/Executables/make; 
+    WINDOWS_COMPILEROPTIONS = "-O3"; 
+    WINDOWS_INSTALLDIR = "$(FRAME_PATH)"; 
+    WINDOWS_JAVA_COMPILER = "$(JDKBINDIR)/javac.exe"; 
+    WINDOWS_OBJCPLUS_COMPILER = "$(DEVDIR)/gcc"; 
+}

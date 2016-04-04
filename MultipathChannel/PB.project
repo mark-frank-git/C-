@@ -1,0 +1,39 @@
+{
+    CURRENTLY_ACTIVE_VERSION = YES; 
+    DEPLOY_WITH_VERSION_NAME = A; 
+    DYNAMIC_CODE_GEN = YES; 
+    FILESTABLE = {
+        FRAMEWORKS = (
+            Buffers.framework, 
+            C_Libraries.framework, 
+            Filters.framework, 
+            Generators.framework, 
+            GNU.framework, 
+            Polynomials.framework, 
+            RandomDist.framework
+        ); 
+        FRAMEWORKSEARCH = ("$(FRAME_PATH)"); 
+        H_FILES = (cost207_channels.h, environment_types.h, GSMFading.h, GSMTapFading.h); 
+        OTHER_LINKED = (GSMFading.cc, GSMTapFading.cc); 
+        OTHER_SOURCES = (Makefile.preamble, Makefile, Makefile.postamble, m.template, h.template); 
+        PUBLIC_HEADERS = (GSMFading.h, cost207_channels.h, environment_types.h); 
+    }; 
+    LANGUAGE = English; 
+    MAKEFILEDIR = "$(MAKEFILEPATH)/pb_makefiles"; 
+    NEXTSTEP_BUILDTOOL = /bin/gnumake; 
+    NEXTSTEP_INSTALLDIR = /Library/Frameworks; 
+    NEXTSTEP_JAVA_COMPILER = /usr/bin/javac; 
+    NEXTSTEP_OBJCPLUS_COMPILER = /usr/bin/cc; 
+    PDO_UNIX_BUILDTOOL = $NEXT_ROOT/Developer/bin/make; 
+    PDO_UNIX_INSTALLDIR = /Library/Frameworks; 
+    PDO_UNIX_JAVA_COMPILER = "$(JDKBINDIR)/javac"; 
+    PDO_UNIX_OBJCPLUS_COMPILER = "$(NEXTDEV_BIN)/gcc"; 
+    PROJECTNAME = MultipathChannel; 
+    PROJECTTYPE = Framework; 
+    PROJECTVERSION = 2.8; 
+    WINDOWS_BUILDTOOL = $NEXT_ROOT/Developer/Executables/make; 
+    WINDOWS_COMPILEROPTIONS = "-O1"; 
+    WINDOWS_INSTALLDIR = "$(FRAME_PATH)"; 
+    WINDOWS_JAVA_COMPILER = "$(JDKBINDIR)/javac.exe"; 
+    WINDOWS_OBJCPLUS_COMPILER = "$(DEVDIR)/gcc"; 
+}
