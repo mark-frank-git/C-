@@ -6,8 +6,6 @@
  * File:WaveletAnalyzer.h                                               *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 08/23/05 - Started.                                              *
  *                                                                      *
  * References:                                                          *
  *  1. P.E. Pace, Low Probability of Intercept Radar.                   *

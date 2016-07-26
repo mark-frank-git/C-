@@ -5,10 +5,6 @@
  *                                                                      *
  * File: /User/frank/C++/Measurements/PeakDetect.cc                     *
  *                                                                      *
- * Revision History:                                                    *
- *  1. 07/17/99 - Started.                                              *
- *  2. 01/10/00 - Fixed interpolation methods to use mag instead of     *
- *                squared magnitude.                                    *
  ************************************************************************/
 
 #include "PeakDetect.h"

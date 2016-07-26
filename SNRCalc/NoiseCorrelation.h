@@ -6,8 +6,6 @@
  *                                                                              *
  * File: /User/frank/C++/SNRCalcu/NoiseCorrelation.h                            *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 10/20/00 - Started.                                                      *
  ********************************************************************************/
 
 #ifndef LOGICAL

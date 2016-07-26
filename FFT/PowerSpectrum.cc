@@ -6,23 +6,7 @@
  * File: PowerSpectrum.cc                                               *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 10/06/95  - Started                                              *
- *  2. 12/28/95  - Fixed error using atan2(), in autocorrelation.       *
- *  3. 02/07/97  - Add avgPowerSpectrumFromReal().                      *
- *  4. 02/11/97  - Add smoothSpectrum()                                 *
- *  5. 02/13/97  - Add shiftRight for Complex data.                     *
- *  6. 04/07/97  - Add calibrationMode.                                 *
- *  7. 04/29/97  - Move windowing stuff to _dataWindow class.           *
- *  8. 04/30/97  - Add resolutionBandwidth(), numberDataSamples().      *
- *  9. 05/01/97  - Add chirp z for avgPowerSpectrum().                  *
- * 10. 05/19/97  - Add windowSize to avgPowerSpectrumFromReal().        *
- * 11. 05/28/97  - Add maxBinFrequency().                               *
- * 12. 08/25/99  - Compensate scaling for zero padding, and coherent    *
- *                 versus non-coherent gain of window.                  *
- * 13. 09/02/99  - Fixed power spectrum scale factor -> 1/N.            *
- * 14. 09/10/99  - Use 3 dB BW in RBW calculation.                      *
- * 15. 09/22/99  - Add averagingType in avgPowerSpectrum().             *
- * 16. 11/06/00  - Add averagingType to avgPowerSpectrum with Chirp Z.  *
+ *  1. 10/06/05  - Started                                              *
  ************************************************************************/
 
 /**************************

@@ -8,8 +8,6 @@
  *                                                                      *
  * File:SpectralLine.h                                                  *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 10/06/99  - Started.                                             *
  ************************************************************************/
 #define SPLN_OUTPUT_SIZE        2000
 #define POST_NL                 0

@@ -8,18 +8,7 @@
  * File:PhaseLocked.h                                                   *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 12/19/97  - Started.                                             *
- *  2. 12/31/97  - Added _tuneFrequency.                                *
- *  3. 01/27/98  - Went to phaseDetectorType, data directed PLL.        *
- *  4. 02/09/98  - Add _unModuloVCOOutput.                              *
- *  5. 11/23/98  - Made this an abstract class, see CarrierLock, Code-  *
- *                 lock subclasses.                                     *
- *  6. 01/14/99  - Add lockedLoopBandwidth, etc.                        *
- *  7. 02/25/99  - Add more lock detector stuff.                        *
- *  8. 03/27/99  - Add _lockDetectorSum[MAX_SUMS]                       *
- *  9. 06/14/99  - Make _lockDetectorSum a scalar.                      *
- * 10. 11/17/99  - Output _loopLocked.                                  *
- * 11. 01/16/01  - Move pllOutputFor() to subclasses, stub here.        *
+ *  1. 12/19/00  - Started.                                             *
  ************************************************************************/
 #include <GNU/Complex.h>
 

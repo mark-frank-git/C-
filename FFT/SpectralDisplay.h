@@ -9,7 +9,7 @@
  * File: SpectralDisplay.h                                              *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 09/07/99  - Started                                              *
+ *  1. 09/07/05  - Started                                              *
  ************************************************************************/
 
 #include <Filters/DataWindow.h>

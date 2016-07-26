@@ -32,8 +32,7 @@
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 10/08/99  - Started as subclass of AbstractFilter                *
- *  2. 11/18/99  - Added writeA/BCoeffsToFile().                        *
+ *  1. 10/08/00  - Started as subclass of AbstractFilter                *
  ************************************************************************/
 
 #include "RealFilter.h"                                 // Object prototypes

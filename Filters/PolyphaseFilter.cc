@@ -9,7 +9,7 @@
  *                                                                      *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 04/02/99  - Started.                                             *
+ *  1. 04/02/02  - Started.                                             *
  ************************************************************************/
 
 #include "PolyphaseFilter.h"                                    // Object prototypes

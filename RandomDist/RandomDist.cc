@@ -8,17 +8,6 @@
  *                                                                              *
  * File: /User/frank/Objc_Classes/RandomDist/RandomDist.cc                      *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 05/04/92 - Started                                                       *
- *  2. 06/10/92 - Free arrays in here                                           *
- *  3. 07/09/92 - Add gamma, log_gamma, log_normal, and correlation             *
- *                coefficient                                                   *
- *  4. 11/19/92 - Add GAUSS_MARKOV, distributionFunction -> densityFunction     *
- *  5. 12/17/97 - Add setNewSeeds().                                            *
- *  6. 01/17/00 - Went to GNU uniform generator.                                *
- *  7. 08/22/00 - Went to MT19937 random number generator, and changed name.    *
- *  8. 04/17/06 - Added CONSTANT_DIST for testing RadarScatterers.              *
- *  9. 05/03/06 - Added sqrt(2) scaling on Rayleigh samples                     *
  ********************************************************************************/
 #include <stdlib.h>
 #include <stdio.h>

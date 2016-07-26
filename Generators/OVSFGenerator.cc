@@ -5,7 +5,7 @@
  * File: OVSFGenerator.cc                                                       *
  *                                                                              *
  * Revision history:                                                            *
- *   1. 06/27/99 - Started                                                      *
+ *   1. 06/27/01 - Started                                                      *
  *                                                                              *
  * Notes:                                                                       *
  * 1. The VSF code functions have values of 0 or 1.                             *

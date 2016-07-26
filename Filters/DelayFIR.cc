@@ -18,7 +18,7 @@
  *                                                                      *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 03/13/99 - Started.                                              *
+ *  1. 03/13/01 - Started.                                              *
  ************************************************************************/
 
 #include "DelayFIR.h"                                   // Object prototypes

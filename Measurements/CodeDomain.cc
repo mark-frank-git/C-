@@ -5,9 +5,6 @@
  *                                                                      *
  * File: /User/frank/C++/Measurements/CodeDomain.cc                     *
  *                                                                      *
- * Revision History:                                                    *
- *  1. 03/20/99 - Started.                                              *
- *  2. 05/31/99 - Add calculateRho().                                   *
  ************************************************************************/
 
 #include "CodeDomain.h"

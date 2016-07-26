@@ -7,9 +7,7 @@
  *  File: fft_routines.c                                                *
  *                                                                      *
  *  Revisions History:                                                  * 
- *   08/27/95  - started.                                               *
- *   09/15/95  - c.real() -> real(c).                                   *
- *   08/25/99  - Added complex input CZT.                               *
+ *   08/27/05  - started.                                               *
  *************************************************************************/
 #include <math.h>
 #include <stdlib.h>

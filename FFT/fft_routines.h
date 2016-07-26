@@ -9,9 +9,7 @@
  *  File: fft_routines.h                                                *
  *                                                                      *
  *  Revisions History:                                                  * 
- *   08/27/95  - started.                                               *
- *   09/15/95  - c.real() -> real(c).                                   *
- *   08/25/99  - Added complex input CZT.                               *
+ *   08/27/05  - started.                                               *
  ************************************************************************/
 
 #define INVERSE_FFT             -1              // See _operationType below

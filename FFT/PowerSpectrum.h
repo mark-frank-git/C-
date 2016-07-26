@@ -8,20 +8,7 @@
  * File: PowerSpectrum.h                                                *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 10/06/95  - Started                                              *
- *  2. 02/07/97  - Add avgPowerSpectrumFromReal().                      *
- *  3. 02/11/97  - Add smoothSpectrum()                                 *
- *  4. 04/07/97  - Add calibrationMode.                                 *
- *  5. 04/29/97  - Move windowing stuff to _dataWindow class.           *
- *  6. 04/30/97  - Add resolutionBandwidth(), numberDataSamples().      *
- *  7. 05/01/97  - Add chirp z for avgPowerSpectrum().                  *
- *  8. 05/19/97  - Add windowSize to avgPowerSpectrumFromReal().        *
- *  9. 05/28/97  - Add maxBinFrequency().                               *
- * 10. 01/28/98  - Switched definitions of _calibrateMode for BlockDraw.*
- * 11. 05/20/99  - Added phaseSpectrum().                               *
- * 12. 07/18/99  - Added complexSpectrum().                             *
- * 13. 09/22/99  - Add averagingType in avgPowerSpectrum().             *
- * 14. 11/06/00  - Add averagingType to avgPowerSpectrum with Chirp Z.  *
+ *  1. 10/06/05  - Started                                              *
  ************************************************************************/
 #include    "FFT.h"
 

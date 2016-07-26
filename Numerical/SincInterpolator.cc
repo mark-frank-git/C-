@@ -6,8 +6,6 @@
  * File:SincInterpolator.cc                                             *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 09/03/00  - Started.                                             *
  ************************************************************************/
 
 #include "SincInterpolator.h"                                   // Object prototypes

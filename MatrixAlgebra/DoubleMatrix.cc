@@ -6,12 +6,6 @@
  *                                                                      *
  * File:DoubleMatrix.cc                                                 *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 04/05/93  - Started                                              *
- *  2. 08/31/95  - Objective C -> C++.                                  *
- *  3. 02/27/95  - Added operator overloading.                          *
- *  4. 03/10/97  - print() -> <<.                                       *
- *  5. 05/19/05  - add singular values.                                 *
  ************************************************************************/
  
 #include <stdlib.h>

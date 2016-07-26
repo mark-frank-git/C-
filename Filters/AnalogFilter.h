@@ -19,15 +19,8 @@
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 12/30/94  - Objective-C -> C++                                   *
- *  2. 07/12/95  - setFilterOrder -> setAnalogFilterOrder.              *
- *  3. 02/20/97  - Reversed order of denominator, numerator polys.      *
- *  4. 02/25/97  - Add getACoeffs(), getBCoeffs().                      *
- *  5. 12/05/97  - make setFilterACoeff() virtual.                      *
- *  6. 01/05/98  - make subclass of AbstractFilter.                     *
- *  7. 10/08/99  - make subclass of RealFilter.                         *
- *  8. 11/13/00  - Add _passbandRipple (used to be equal to 3 dB)       *
- ************************************************************************/
+ *  1. 12/30/04  - Objective-C -> C++                                   *
+  ************************************************************************/
 #include "RealFilter.h"
 #define MAX_ORDER               15                      // max prototype order
 #define DEFAULT_RIPPLE          3.                      // Ripple in dB

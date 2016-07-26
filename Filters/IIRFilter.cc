@@ -23,9 +23,7 @@
  *                                                                      *
  *                                                                      *
  * Revision history:                                                    *
- *  1.  01/06/98  - Derived from DigitalFilter.                         *
- *  2.  01/20/01  - Move sToZ to public functions.                      *
- *  3.  03/28/02  - Add findPower().                                    *
+ *  1.  01/06/01  - Derived from DigitalFilter.                         *
  ************************************************************************/
 
 #include "IIRFilter.h"                                  // Object prototypes

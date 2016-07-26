@@ -7,10 +7,6 @@
  * File:WaveletFilterCoefficients.h                                     *
  *                                                                      *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 08/09/05 - Started.                                              *
- *                                                                      *
  ************************************************************************/
 
 #ifndef         YES

@@ -4,8 +4,6 @@
  *                                                                      *
  * File: /User/frank/C++/Measurements/FreqMeasure.cc                    *
  *                                                                      *
- * Revision History:                                                    *
- *  1. 03/01/99 - Started.                                              *
  ************************************************************************/
 
 #include "FreqMeasure.h"

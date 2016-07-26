@@ -26,27 +26,7 @@
  *                                                                      *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 12/30/94  - Objective-C -> C++                                   *
- *  2. 01/17/95  - Add filterDoubleData().                              *
- *  3. 02/22/95  - Remove Complex *garb - was used for debug.           *
- *  4. 01/16/96  - typedef int BOOL for DOS.                            *
- *  5. 11/07/96  - Make windowFunction() public.                        *
- *  6. 02/12/97  - Add complexFilterComplexArray().                     *
- *  7. 02/20/97  - Add correlateVectors(), lsInverseFilter().           *
- *  8. 02/20/97  - Reversed order of numerator, denominator polys       *
- *  9. 02/24/97  - Add getWindowScale().                                *
- * 10. 03/12/97  - Add setPassBandGain().                               *
- * 11. 04/29/97  - Move windowing stuff to DataWindow class.            *
- * 12. 06/06/97  - Add remez algorithm filter.                          *
- * 13. 07/05/97  - Add raised cosine stuff.                             *
- * 14. 07/14/97  - Add root raised cosine stuff.                        *
- * 15. 12/05/97  - Override setFilterACoeff().                          *
- * 16. 01/05/98  - Make subclass of AbstractFilter.                     *
- * 17. 01/06/98  - Make superclass of IIRFilter and FIRFilter.          *
- * 18. 06/15/98  - Add setFilterACoeffs, setFilterBCoeffs.              *
- * 19. 09/27/00  - Add findNBW.                                         *
- * 20. 12/18/00  - Add aliasResponse().                                 *
- * 21. 03/27/02  - Add findPower.                                       *
+ *  1. 12/30/01  - Objective-C -> C++                                   *
  ************************************************************************/
 
 #include        "RealFilter.h"

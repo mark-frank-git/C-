@@ -10,14 +10,6 @@
  * Note: for p(x) = a[0]*x^n + a[1]*x^(n-1) + . . . + a[n]              *
  *       p(x) has order n, but the length of the array is n+1.          *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 01/04/95  - Objective C -> C++                                   *
- *  2. 02/20/97  - Moved jenkinsTraub routines to algebra_routines.cc   *
- *  3. 02/20/97  - Reversed order of poly, went to overloaded opeartors *
- *  4. 03/26/00  - Use Rice University's root finder functions.         *
- *  5. 03/28/02  - Add = DoublePoly.                                    *
- *  6. 03/28/02  - Fixed broken /= , %= +=, *=, -=.                     *
- *  7. 03/29/02  - Update order after reverse operation.                *
  ************************************************************************/
 
 #include <stdio.h>

@@ -7,8 +7,8 @@
  * File: /User/frank/C++/Misc/FloatBuffer.h                                     *
  *                                                                              *
  * Revision History:                                                            *
- *  1. 08/15/96 - Started                                                       *
- *  2. 06/09/98 - Made subclass of AbstractBuffer.                              *
+ *  1. 08/15/00 - Started                                                       *
+ *  2. 06/09/01 - Made subclass of AbstractBuffer.                              *
  *                                                                              *
  ********************************************************************************/
 #include "AbstractBuffer.h"

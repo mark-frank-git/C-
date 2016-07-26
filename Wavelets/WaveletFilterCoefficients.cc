@@ -6,9 +6,6 @@
  *                                                                      *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 08/09/05 - Started.                                              *
- *                                                                      *
  ************************************************************************/
 #include "WaveletFilterCoefficients.h"                                  // Object prototypes
 #if defined(WIN32)

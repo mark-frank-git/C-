@@ -7,9 +7,6 @@
  * File:IntVector.h                                                     *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. April 4, 2015 - Started                                          *
- *                                                                      *
  * NOTES:                                                               *
  *   1. vector = a[0] a[1]  ....  a[n]                                  *
  *                                                                      *

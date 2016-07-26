@@ -34,11 +34,7 @@
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 01/05/98  - Abstracted from AnalogFilter                         *
- *  2. 06/15/98  - setFilterACoeff()->setFilterACoeffs, setFilterBCoeffs*
- *  3. 09/21/99  - setFilterOrder() -> virtual.                         *
- *  4. 10/08/99  - Moved some functionality to RealFilter.              *
- *  5. 12/18/00  - Add ALIAS_RESPONSE, remove _complexResponse.         *
+ *  1. 01/05/04  - Abstracted from AnalogFilter                         *
  ************************************************************************/
 
 #define LOW_PASS                0                       // filterPassType

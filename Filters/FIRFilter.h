@@ -18,17 +18,8 @@
  *                                                                      *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 01/06/98 - Derived from DigitalFilter.                           *
- *  2. 03/05/98 - Override filtering methods from super class.          *
- *  3. 06/09/98 - Add FIR_USER_DEFINED.                                 *
- *  4. 06/15/98 - Ovverride setPassBandGain, findTransferResponse.      *
- *  5. 07/27/98 - Add GMSK filter.                                      *
- *  6. 03/12/99 - Abstracted out AbstractFIR.                           *
- *  7. 09/27/00 - Remove Remez stuff (moved to RemezFIR).               *
- *  8. 10/30/01 - Add output filterDelay().                             *
- *  9. 11/06/01 - Add FIR_EDGE.                                         *
- * 10. 11/29/02 - Corrected, GMSK_CENTER from 0 to 0.5                  *
- ************************************************************************/
+ *  1. 01/06/00 - Derived from DigitalFilter.                           *
+************************************************************************/
 
 #include        "AbstractFIR.h"
 

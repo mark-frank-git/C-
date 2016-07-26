@@ -7,8 +7,7 @@
  * File:DataWindow.cc                                                   *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 04/29/97  - Extracted from DigitalFilter                         *
- *  2. 06/25/99  - Change window scale to normalized noise power.       *
+ *  1. 04/29/02  - Extracted from DigitalFilter                         *
  ************************************************************************/
 
 #include "DataWindow.h"                                   // Object prototypes

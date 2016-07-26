@@ -6,12 +6,7 @@
  * File:PhaseLocked.cc                                                  *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 12/19/97  - Started.                                             *
- *  2. 01/27/98  - Went to phaseDetectorType, data directed PLL.        *
- *  3. 11/23/98  - Made this an abstract class, see CarrierLock, Code-  *
- *                 lock subclasses.                                     *
- *  4. 11/30/98  - Move discriminator, VCO gain calculations to sub-    *
- *                 classes.                                             *
+ *  1. 12/19/00  - Started.                                             *
  ************************************************************************/
 
 #include "PhaseLocked.h"                                        // Object prototypes

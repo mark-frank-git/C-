@@ -11,8 +11,6 @@
  * Where the b coefficients are calculated outside of this class.       *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 08/09/05 - Started, modified from AbstractFilter.                *
  ************************************************************************/
 #include <stdio.h>
 #include "RealFIR.h"                                    // Object prototypes

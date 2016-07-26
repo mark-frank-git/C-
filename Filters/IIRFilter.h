@@ -25,13 +25,8 @@
  *                                                                      *
  *                                                                      *
  * Revision history:                                                    *
- *  1.  01/06/98  - Derived from DigitalFilter.                         *
- *  2.  11/13/00  - Add setPassbandRipple().                            *
- *  3.  12/18/00  - Move decimateFactor to super class.                 *
- *  4.  01/20/02  - Move sToZ to public functions.                      *
- *  5.  01/29/02  - Add warpedFrequency function.                       *
- *  6.  03/28/02  - Add findPower().                                    *
- ************************************************************************/
+ *  1.  01/06/01  - Derived from DigitalFilter.                         *
+************************************************************************/
 
 #include        "DigitalFilter.h"
 

@@ -23,24 +23,7 @@
  *                                                                      *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 12/30/94  - Objective-C -> C++                                   *
- *  2. 01/17/95  - Add filterDoubleData().                              *
- *  3. 01/27/95  - x.real() -> real(x), add ASINH_EPS.                  *
- *  4. 02/27/95  - Fixed destructor to account for ~AbstractFilter being*
- *                 called.  Set window -> NULL in constructor.          *
- *  5. 07/12/95  - Fixed new on analogPoles, analogZeros.               *
- *  6. 02/20/97  - Add correlateVectors().                              *
- *  7. 03/12/97  - Add setPassBandGain().                               *
- *  8. 03/13/97  - Add CIC filter type.                                 *
- *  9. 03/13/97  - Base filtering on polynomial orders.                 *
- * 10. 04/29/97  - Move windowing stuff to DataWindow class.            *
- * 11. 06/04/97  - Added remez routine.                                 *
- * 12. 07/05/97  - Added raised cosine stuff.                           *
- * 13. 07/14/97  - Add root raised cosine stuff.                        *
- * 14. 01/06/98  - Made superclass for IIRFilter and FIRFilter.         *
- * 15. 03/03/98  - Modify zeroOutTaps to check shift size.              *
- * 16. 12/18/00  - Add ALIAS_RESPONSE                                   *
- * 17. 03/27/02  - Add findPower.                                       *
+ *  1. 12/30/01  - Objective-C -> C++                                   *
  ************************************************************************/
 
 #include "DigitalFilter.h"                                      // Object prototypes

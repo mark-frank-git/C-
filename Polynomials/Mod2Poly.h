@@ -12,11 +12,6 @@
  * Note: for p(x) = a[0]*x^n + a[1]*x^(n-1) + . . . + a[n]              *
  *       p(x) has order n, but the size of the array is n+1.            *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 12/22/95 - Started                                               *
- *  2. 09/18/96 - Added ^ and & operators.                              *
- *  3. 12/11/96 - Add getPolyString().                                  *
- *  4. 03/10/97 - Reverse order of polynomial.                          *
  ************************************************************************/
 #ifdef USE_IO_STREAM
 #include <fstream.h>

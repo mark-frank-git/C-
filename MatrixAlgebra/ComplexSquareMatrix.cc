@@ -8,8 +8,6 @@
  *                                                                      *
  * File:ComplexSquareMatrix.cc                                          *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 5/10/05  - Derived from ComplexMatrix.                           *
  ************************************************************************/
  
 #include <stdlib.h>

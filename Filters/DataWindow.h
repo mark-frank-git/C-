@@ -9,11 +9,7 @@
  * File:DataWindow.h                                                    *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 04/29/97  - Extracted from DigitalFilter                         *
- *  2. 06/06/97  - Make window array a double.                          *
- *  3. 08/02/99 - Add dftMagnitudeAt().                                 *
- *  4. 09/25/99  - windowScale -> coherentGain, noncoherentGain(noise). *
- *  5. 07/28/00  - Add TUKEY_WINDOW for FFTAnalyzer program.            *
+ *  1. 04/29/02  - Extracted from DigitalFilter                         *
  ************************************************************************/
 //
 // The following are the types of windows that are available

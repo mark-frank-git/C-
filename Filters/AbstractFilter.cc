@@ -23,8 +23,7 @@
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 01/05/98  - Abstracted from AbstractFilter                       *
- *  2. 10/11/99  - Fixes to Phase and Group delay response calculations *
+ *  1. 01/05/04  - Abstracted from AbstractFilter                       *
  ************************************************************************/
 
 #include "AbstractFilter.h"                                     // Object prototypes

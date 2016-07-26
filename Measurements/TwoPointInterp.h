@@ -8,8 +8,6 @@
  *                                                                      *
  * File: /User/frank/C++/Measurements/TwoPointInterp.h                  *
  *                                                                      *
- * Revision History:                                                    *
- *  1. 07/17/99 - Started.                                              *
  ************************************************************************/
 
 #ifndef LOGICAL

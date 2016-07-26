@@ -16,9 +16,7 @@
  *                                                                      *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 03/12/99 - Abstracted from FIRFilter.                            *
- *  2. 06/08/99 - Add complexFilterComplexArray().                      *
- *  3. 04/20/05 - Move complexFilterComplexArray to ComplexFIR.         *
+ *  1. 03/12/04 - Abstracted from FIRFilter.                            *
  ************************************************************************/
 
 #include "AbstractFIR.h"                                        // Object prototypes

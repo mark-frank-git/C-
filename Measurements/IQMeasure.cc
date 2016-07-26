@@ -7,11 +7,6 @@
  *                                                                      *
  * File: /User/frank/C++/QAM/IQMeasure.cc                               *
  *                                                                      *
- * Revision History:                                                    *
- *  1. 07/28/97 - Started.                                              *
- *  2. 01/23/98 - Added processIQSymbolInRing().                        *
- *  3. 04/06/98 - Make # of bits settable.                              *
- *  4. 04/09/98 - Add idealSigPower().                                  *
  ************************************************************************/
 
 #include "IQMeasure.h"

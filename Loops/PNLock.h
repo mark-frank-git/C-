@@ -7,12 +7,8 @@
  * File:PNLock.h                                                        *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 11/23/98  - Subclassed from PhaseLocked.                         *
- *  2. 03/17/99  - Removed non coherent stuff.  Moved it to a subclass. *
- *  3. 03/27/99  - Add _samplesPerChip, _sampleCount, etc.              *
- *  4. 06/15/99  - Add _timingVariance.                                 *
- *  5. 01/16/01  - Implement pllOutput from super class, add            *
- ************************************************************************/
+ *  1. 11/23/01  - Subclassed from PhaseLocked.                         *
+************************************************************************/
 #include "PhaseLocked.h"
 #include <stdio.h>
 

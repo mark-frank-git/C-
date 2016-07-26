@@ -24,10 +24,9 @@
  *                                                                      *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 10/11/99  - Started.                                             *
+ *  1. 10/11/03  - Started.                                             *
  *  2. 01/30/02  - Add shiftCoefficientsByFrequency().                  *
- *  3. 03/19/02  - Add convertCoefficientsToZ().                        *
- ************************************************************************/
+ *  3. 03/19/02  - Add convertCoefficientsToZ().                        * ************************************************************************/
 
 #include        "ComplexFilter.h"
 

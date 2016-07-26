@@ -8,8 +8,6 @@
  * File:SincInterpolator.h                                              *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 09/03/00  - Started.                                             *
  ************************************************************************/
 
 #ifndef LOGICAL

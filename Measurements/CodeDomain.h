@@ -7,10 +7,6 @@
  *                                                                      *
  * File: /User/frank/C++/Measurements/CodeDomain.h                      *
  *                                                                      *
- * Revision History:                                                    *
- *  1. 03/20/99 - Started.                                              *
- *  2. 05/01/99 - Add processComplexSignal().                           *
- *  3. 05/31/99 - Add calculateRho().                                   *
  ************************************************************************/
 
 #define WALSH_LENGTH            64                      // Default Walsh length

@@ -5,9 +5,6 @@
  *                                                                      *
  * File:PolynomialFit.cc                                                *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 11/17/00 - Started.                                              *
- *  2. 07/14/04 - Used DoubleSquareMatrix.                              *
  ************************************************************************/
 
 #include "PolynomialFit.h"

@@ -8,10 +8,7 @@
  * File: FFT.h                                                          *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 08/27/95  - Started                                              *
- *  2. 11/16/95  - Added more complex to real conversions.              *
- *  3. 04/30/97  - Add chirp Z transform stuff.                         *
- *  4. 08/25/99  - Add complex version of CZT.                          *
+ *  1. 08/27/05  - Started                                              *
  ************************************************************************/
 #if defined (_WIN32) && defined (NeXT_PDO)
 #include <GNU/Complex.h>

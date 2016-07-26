@@ -10,9 +10,6 @@
  * File:FloatVector.h                                                   *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 03/27/97  - Started                                              *
- *                                                                      *
  * NOTES:                                                               *
  *   1. vector = a[0] a[1]  ....  a[n]                                  *
  *                                                                      *

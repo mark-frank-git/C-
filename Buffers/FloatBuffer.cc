@@ -5,7 +5,7 @@
  * File: /User/frank/C++/Misc/FloatBuffer.cc                                *
  *                                                                          *
  * Revision History:                                                        *
- *  1. 08/15/96 - Started                                                   *
+ *  1. 08/15/00 - Started                                                   *
  *                                                                          *
  ***************************************************************************/
 #include    "FloatBuffer.h"

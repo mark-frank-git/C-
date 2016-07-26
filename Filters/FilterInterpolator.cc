@@ -12,7 +12,7 @@
  * 2. With the filter centered at the output point, 
  *                                                                      *
  * Revision history:                                                    *
- *  1. 08/23/99  - Started.                                             *
+ *  1. 08/23/01  - Started.                                             *
  ************************************************************************/
 
 #include "FilterInterpolator.h"                                 // Object prototypes

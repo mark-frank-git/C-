@@ -25,10 +25,7 @@
  * File: /User/frank/C++/Generators/PNGenerator.h                               *
  *                                                                              *
  * Revision History:                                                            *
- *  1. 02/06/97 - Started.                                                      *
- *  2. 03/31/99 - Add MSRG configuration.                                       *
- *  3. 07/07/99 - Make SSRG look like W-CDMA implementation, add _pnOffset.     *
- *  4. 12/20/99 - Add _outputTapNumber.                                         *
+ *  1. 02/06/00 - Started.                                                      *
  ********************************************************************************/
 #define MSRG_TYPE       0
 #define SSRG_TYPE       1

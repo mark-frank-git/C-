@@ -18,8 +18,7 @@
  * File: /User/frank/C++/Generators/PNFiltered.h                                *
  *                                                                              *
  * Revision History:                                                            *
- *  1. 02/06/99 - Started.                                                      *
- *  2. 03/17/99 - Add constructor to allow passing in of PN sequence.           * 
+ *  1. 02/06/01 - Started.                                                      *
  ********************************************************************************/
 
 #ifndef LOGICAL

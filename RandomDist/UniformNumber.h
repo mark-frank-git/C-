@@ -7,8 +7,6 @@
  *                                                                              *
  * File: /User/frank/Objc_Classes/UniformNumber/UniformNumber.h                 *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 08/22/00 - Started.                                                      *
  ********************************************************************************/
 
 #define SEED_OFFSET     1167                    // Default seed

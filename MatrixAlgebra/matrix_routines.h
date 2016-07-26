@@ -6,9 +6,6 @@
  *                                                                      *
  * File:matrix_routines.h                                               *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 07/06/04  - Extracted from DoubleMatrix.                         *
- *  2. 05/17/05  - Add Complex versions and svd() routines.             *
  ************************************************************************/
 
 #ifndef LOGICAL

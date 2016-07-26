@@ -6,9 +6,6 @@
  *                                                                      *
  * File:Numerical.cc                                                    *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 01/05/95  - Objective-C -> C++                                   *
- *  2. 08/30/05  - Added functionMin().                                 *
  ************************************************************************/
 
 #include "Numerical.h"

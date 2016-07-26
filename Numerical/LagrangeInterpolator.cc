@@ -8,9 +8,6 @@
  * File:LagrangeInterpolator.cc                                         *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 08/23/99  - Started.                                             *
- *  2. 08/30/00  - Add real time processing routines.                   *
  ************************************************************************/
 
 #include "LagrangeInterpolator.h"                                       // Object prototypes

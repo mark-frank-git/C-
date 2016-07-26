@@ -15,7 +15,7 @@
  * File: /User/frank/C++/Generators/PNFiltered.cc                               *
  *                                                                              *
  * Revision History:                                                            *
- *  1. 02/06/97 - Started.                                                      *
+ *  1. 02/06/01 - Started.                                                      *
  ********************************************************************************/
 #include <stdio.h>
 #include <C_Libraries/constants.h>

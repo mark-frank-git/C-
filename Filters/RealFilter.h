@@ -33,11 +33,7 @@
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 10/08/99  - Started as subclass of AbstractFilter                *
- *  2. 10/12/99  - Added readA/BCoeffsFromFile().                       *
- *  3. 11/18/99  - Added writeA/BCoeffsToFile().                        *
- *  4. 03/28/00  - Add virtual filterPoles(), filterZeros().            *
- *  5. 11/08/00  - Add functions to return aPoly() and bPoly().         *
+ *  1. 10/08/00  - Started as subclass of AbstractFilter                *
  ************************************************************************/
 #include "AbstractFilter.h"
 #include <stdio.h>

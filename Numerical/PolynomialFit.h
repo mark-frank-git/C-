@@ -7,8 +7,6 @@
  *                                                                      *
  * File:PolynomialFit.h                                                 *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 11/17/00 - Started.                                              *
  ************************************************************************/
 
 #ifndef LOGICAL

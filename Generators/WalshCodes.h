@@ -7,8 +7,7 @@
  * File: WalshCodes.h                                                           *
  *                                                                              *
  * Revision history:                                                            *
- *   1. 04/15/98 - Started                                                      *
- *   2. 03/20/99 - Store in character arrays.                                   *
+ *   1. 04/15/01 - Started                                                      *
  *                                                                              *
  * Notes:                                                                       *
  * 1. See Lewis Franks, "Signal Theory" for Walsh function generation formulae. *

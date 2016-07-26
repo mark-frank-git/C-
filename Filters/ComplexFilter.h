@@ -33,7 +33,7 @@
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 10/08/99  - Started as subclass of AbstractFilter                *
+ *  1. 10/08/02  - Started as subclass of AbstractFilter                *
  ************************************************************************/
 #include "AbstractFilter.h"
 #include <stdio.h>

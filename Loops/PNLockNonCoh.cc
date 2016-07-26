@@ -6,7 +6,7 @@
  * File:PNLockNonCoh.cc                                                 *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 03/17/99  - Subclassed from PNLock.                              *
+ *  1. 03/17/01  - Subclassed from PNLock.                              *
  ************************************************************************/
 
 #include "PNLockNonCoh.h"                                       // Object prototypes

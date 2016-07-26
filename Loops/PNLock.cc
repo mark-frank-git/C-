@@ -5,11 +5,7 @@
  * File:PNLock.cc                                                       *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 11/23/98  - Subclassed from PhaseLocked.                         *
- *  2. 1/9/99    - Went to PNFiltered class for early/late PN gens.     *
- *  3. 03/17/99  - Removed non coherent stuff.  Moved it to a subclass. *
- *  4. 06/14/99  - Made _lockDetectorSum a scalar.                      *
- *  5. 06/16/99  - Normalize _lockThreshold.                            *
+ *  1. 11/23/01  - Subclassed from PhaseLocked.                         *
  ************************************************************************/
 
 #include "PNLock.h"                                     // Object prototypes

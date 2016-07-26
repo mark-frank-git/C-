@@ -4,9 +4,6 @@
  *                                                                              *
  * File: /User/frank/C++/SNRCalcu/NoiseCorrelation.h                            *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 10/20/00 - Started.                                                      *
- *  2. 10/30/00 - Use centerFrequency in autocorrelation calculation.           *
  ********************************************************************************/
 #include <math.h>
 #include "NoiseCorrelation.h"

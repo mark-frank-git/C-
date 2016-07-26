@@ -17,15 +17,7 @@
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 12/30/94  - Objective-C -> C++                                   *
- *  2. 01/27/95  - x.real() -> real(x), add ASINH_EPS.                  *
- *  3. 02/27/95  - Fixed bug in destructor.                             *
- *  4. 07/12/95  - Fixed new on _filterPoles, _filterZeros.             *
- *  5. 02/20/97  - Reversed order of denominator, numerator polys.      *
- *  6. 02/25/97  - Add getACoeffs(), getBCoeffs().                      *
- *  7. 01/05/98  - make subclass of AbstractFilter.                     *
- *  8. 10/08/99  - make subclass of RealFilter.                         *
- *  9. 11/13/00  - Add _passbandRipple (used to be equal to 3 dB)       *
+ *  1. 12/30/04  - Objective-C -> C++                                   *
  ************************************************************************/
 
 #include "AnalogFilter.h"                                       // Object prototypes

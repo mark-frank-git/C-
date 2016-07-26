@@ -7,14 +7,7 @@
  *                                                                      *
  * File:ComplexMatrix.cc                                                *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 04/12/93  - Started                                              *
- *  2. 03/19/97  - Add toeplitzSolve                                    *
- *  3. 03/10/97  - print() -> <<.                                       *
- *  4. 04/20/05  - Add append, shift(<<), reverseElements, replace row. *
- *  5. 04/27/05  - Add new constructor for diagonal matrix.             *
- *  6. 05/19/05  - add singular values.                                 *
- ************************************************************************/
+************************************************************************/
  
 #include <stdlib.h>
 #include <stdio.h>

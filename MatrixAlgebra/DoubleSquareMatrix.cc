@@ -8,9 +8,6 @@
  *                                                                      *
  * File:DoubleSquareMatrix.cc                                           *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 07/02/04  - Extracted from DoubleMatrix.                         *
- *  2. 05/19/05  - Don't allocate luMatrix until needed.                *
  ************************************************************************/
  
 #include <stdlib.h>

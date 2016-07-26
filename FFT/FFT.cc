@@ -6,10 +6,7 @@
  * File: FFT.cc                                                         *
  *                                                                      *
  * Revision history:                                                    *
- *  1. 08/27/95  - Started                                              *
- *  2. 09/15/95  -  imports -> includes, c.real()->real(c).             *
- *  3. 11/16/95  - Added more complex to real conversions.              *
- *  4. 09/02/99  - Use norm instead of abs for MAGNITUDE_IN_DB.         *
+ *  1. 08/27/05  - Started                                              *
  ************************************************************************/
 
 /**************************

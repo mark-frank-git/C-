@@ -6,8 +6,6 @@
  *                                                                      *
  * File: /User/frank/C++/QAM/CDMAMeasure.h                              *
  *                                                                      *
- * Revision History:                                                    *
- *  1. 06/30/98 - Started.                                              *
  ************************************************************************/
 #include "IQMeasure.h"
 

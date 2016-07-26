@@ -12,8 +12,6 @@
  * Note: for p(x) = a[0]*x^n + a[1]*x^(n-1) + . . . + a[n]              *
  *       p(x) has order n, but the length of the array is n+1.          *
  *                                                                      *
- * Revision history:                                                    *
- *  3. 02/18/97  - Started                                              *
  ************************************************************************/
 /********************** Won't compile in NT ***************************************
 #include <fstream.h>

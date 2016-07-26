@@ -9,13 +9,6 @@
  *                                                                      *
  * File: /User/frank/C++/QAM/IQMeasure.h                                *
  *                                                                      *
- * Revision History:                                                    *
- *  1. 07/28/97 - Started.                                              *
- *  2. 01/23/98 - Added processIQSymbolInRing().                        *
- *  3. 03/10/98 - Add m_targetVariance for finding normalized phase     *
- *                jitter, normalized MER.                               *
- *  4. 04/06/98 - Make # of bits settable.                              *
- *  5. 04/09/98 - Add idealSigPower().                                  *
  ************************************************************************/
 #include <GNU/SmplStat.h>
 

@@ -6,8 +6,6 @@
  *                                                                      *
  * File: /User/frank/C++/Measurements/FreqMeasure.h                     *
  *                                                                      *
- * Revision History:                                                    *
- *  1. 03/01/99 - Started.                                              *
  ************************************************************************/
 #include <GNU/SmplStat.h>
 

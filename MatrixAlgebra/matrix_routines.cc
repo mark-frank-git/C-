@@ -4,8 +4,6 @@
  *                                                                      *
  * File:matrix_routines.cc                                              *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 07/06/04  - Extracted from DoubleMatrix.                         *
  ************************************************************************/
  
 #include <stdlib.h>
@@ -546,7 +544,8 @@ if(matu)
 //
 // Sort the singular values:
 //
-  sort(n, singularValues, SORT_DESCENDING);  delete [] rv1;
+  sort(n, singularValues, SORT_DESCENDING);
+  delete [] rv1;
   return ierr;
 }
 
