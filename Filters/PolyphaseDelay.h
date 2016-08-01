@@ -8,9 +8,6 @@
  *                                                                      *
  * File:PolyphaseDelay.h                                                *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 04/05/02  - Started.                                             *
  ************************************************************************/
 #include        "PolyphaseInterpolator.h"
 #include        <GNU/Complex.h>

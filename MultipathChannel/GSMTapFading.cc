@@ -5,9 +5,6 @@
  *                                                                      *
  * File:GSMTapFading.cc                                                 *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1.  12/19/01  - Started.                                            *
  ************************************************************************/
 #include "GSMTapFading.h"                                       // Object prototypes
 #include "environment_types.h"

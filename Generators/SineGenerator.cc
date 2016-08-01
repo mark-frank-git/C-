@@ -4,9 +4,7 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/SineGenerator.h                             *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 08/11/00 - Started.                                                      *
- ********************************************************************************/
+********************************************************************************/
 #include <stdio.h>
 #include "SineGenerator.h"
 

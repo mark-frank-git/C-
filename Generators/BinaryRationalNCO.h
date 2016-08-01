@@ -7,8 +7,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/BinaryRationalNCO.h                         *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 01/18/01 - Started.                                                      *
  ********************************************************************************/
 #define DEFAULT_PHASES          128             // # of phases in output accumulator
 #define DEFAULT_R2              8               // output accumulator increment

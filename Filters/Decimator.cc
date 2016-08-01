@@ -4,9 +4,6 @@
  *                                                                      *
  * File:Decimator.h                                                     *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 06/08/02  - Started.                                             *
  ************************************************************************/
 #include        "Decimator.h"
 #include        <GNU/Complex.h>

@@ -17,8 +17,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/PNFiltered.h                                *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 02/06/01 - Started.                                                      *
  ********************************************************************************/
 
 #ifndef LOGICAL

@@ -18,8 +18,6 @@
  *                                                                      *
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 12/30/04  - Objective-C -> C++                                   *
   ************************************************************************/
 #include "RealFilter.h"
 #define MAX_ORDER               15                      // max prototype order

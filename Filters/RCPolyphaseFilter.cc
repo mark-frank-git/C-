@@ -17,8 +17,6 @@
  * SEE: "RC Sequence Asymmetric Polyphase Networks fro RF Integrated    *
  *       Transceivers," by Galal, Ragaie, Tawfik.                       *
  *                                                                      *
- * Revision history:                                                    *
- *  1.  03/19/02  - Started.                                            *
  ************************************************************************/
 
 #include        "ComplexDigitalFilter.h"

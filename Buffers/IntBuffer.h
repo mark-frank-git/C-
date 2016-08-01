@@ -6,8 +6,6 @@
  *                                                                              *
  * File: /User/frank/C++/Misc/IntBuffer.h                                       *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 08/17/00 - Started                                                       *
  *                                                                              *
  ********************************************************************************/
 #include "AbstractBuffer.h"

@@ -6,8 +6,6 @@
  *                                                                      *
  *  File: fft_routines.c                                                *
  *                                                                      *
- *  Revisions History:                                                  * 
- *   08/27/05  - started.                                               *
  *************************************************************************/
 #include <math.h>
 #include <stdlib.h>

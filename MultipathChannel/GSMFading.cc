@@ -6,12 +6,6 @@
  * File:GSMFading.cc                                                    *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1.  10/23/02  - Started.                                            *
- *  2.  12/14/02  - Fixed error in allocateObjects().                   *
- *  3.  01/28/03  - Fixed normalizing of tap gains.                     *
- *  4.  02/04/03  - Added _fadeSeed to get independent faders, e.g.,    *
- *                  for a cochannel interferer.                         *
  ************************************************************************/
 #include "GSMFading.h"                                  // Object prototypes
 #include "GSMTapFading.h"

@@ -4,8 +4,6 @@
 **  \description  This class takes input I/Q data and outputs symbol estimates
 **  \project      BlockDraw
 **  \author       Mark Frank
-** Revision history:
-**  1. 10/17/09  - Started
 */ /*
 *******************************************************************************/
 // Include Files ///////////////////////////////////////////////////////////////
@@ -67,7 +65,8 @@ SymbolEstimate::~SymbolEstimate()
 **
 **  \TODO         None
 *******************************************************************************/
-void SymbolEstimate::ResetEstimates(){
+void SymbolEstimate::ResetEstimates()
+{
   m_numberSymbols                       = 0;
   for(int i=0; i<m_numberSymbolTypes; i++)
   {

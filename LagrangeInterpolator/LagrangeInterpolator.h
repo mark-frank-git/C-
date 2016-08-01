@@ -9,9 +9,6 @@
  *                                                                      *
  * File:LagrangeInterpolator.h                                          *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 08/23/00  - Started.                                             *
  ************************************************************************/
 
 #define MIN_INTERP_POINTS       2               // Linear interpolation

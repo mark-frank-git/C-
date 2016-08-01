@@ -3,8 +3,6 @@
  * The generator polynomial for the degree r code is assumed to be of the form: *
  * g(x) = go + g1x + g2*x^2 + g3*x^3 + .. x^r.                                  *
  *                                                                              *
- * Revision history:                                                            *
- *   1. 04/24/02 - Started                                                      *
  *                                                                              *
  * Notes:                                                                       *
  * 1. Based on the algorithm in Wicker's channel coding book.                   *

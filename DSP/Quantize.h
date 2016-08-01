@@ -7,10 +7,6 @@
  * File:Quantize.h                                                      *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 09/18/00  - Started                                              *
- *  2. 11/02/00  - Add quantizerStepSize().                             *
- *  3. 12/08/01  - Add quantizeFloat().                                 *
  ************************************************************************/
 
 #define DEFAULT_LEVELS  255

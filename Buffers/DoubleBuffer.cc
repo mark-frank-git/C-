@@ -4,8 +4,6 @@
  *                                                                              *
  * File: /User/frank/C++/Misc/DoubleBuffer.cc                                   *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 08/15/00 - Started                                                       *
  *                                                                              *
  ********************************************************************************/
 #include    "DoubleBuffer.h"

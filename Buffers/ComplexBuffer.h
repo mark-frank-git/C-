@@ -6,8 +6,6 @@
  *                                                                              *
  * File: /User/frank/C++/Buffers/ComplexBuffer.h                                *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 10/24/01 - Started.                                                      *
  *                                                                              *
  ********************************************************************************/
 #include "AbstractBuffer.h"

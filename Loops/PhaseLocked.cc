@@ -5,8 +5,6 @@
  *                                                                      *
  * File:PhaseLocked.cc                                                  *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 12/19/00  - Started.                                             *
  ************************************************************************/
 
 #include "PhaseLocked.h"                                        // Object prototypes

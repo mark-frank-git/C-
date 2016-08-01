@@ -21,9 +21,6 @@
  *                                                                      *
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 12/30/01  - Objective-C -> C++                                   *
  ************************************************************************/
 
 #include "DigitalFilter.h"                                      // Object prototypes

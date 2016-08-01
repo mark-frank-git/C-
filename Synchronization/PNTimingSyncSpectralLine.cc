@@ -5,8 +5,6 @@
  *                                                                      *
  * File:PNTimingSyncSpectralLine.cc                                     *
  *                                                                      *
- * Revision history:                                                    *
- *  1.                                                                  *
  ************************************************************************/
 #include <stdio.h>
 #include <math.h>

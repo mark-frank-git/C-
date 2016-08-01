@@ -3,8 +3,6 @@
  * columns and reads by out by rows.                                            *
  * File: BlockInterleave.h                                                      *
  *                                                                              *
- * Revision history:                                                            *
- *   1. 04/24/01 - Started                                                      *
  *                                                                              *
  ********************************************************************************/
 #include "BlockInterleave.h"

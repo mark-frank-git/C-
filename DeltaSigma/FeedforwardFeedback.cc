@@ -7,8 +7,6 @@
  *                                                                      *
  * File:FeedforwardFeedback.h                                           *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 04/23/00  - Started.                                             *
  ************************************************************************/
 
 #include <math.h>

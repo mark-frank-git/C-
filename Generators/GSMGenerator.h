@@ -9,8 +9,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/GSMGenerator.h                              *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 04/19/2012 - Started.                                                    *
  ********************************************************************************/
 
 #ifndef LOGICAL

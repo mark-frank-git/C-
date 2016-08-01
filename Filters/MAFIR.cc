@@ -14,9 +14,6 @@
  * Where the a and b polynomials are stored in the polynomial objects.  *
  * NOTE: The order of the filter is the # taps - 1.                     *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 08/17/00 - Started.                                              *
  ************************************************************************/
 
 #include "MAFIR.h"                                      // Object prototypes

@@ -4,9 +4,6 @@
  *                                                                              *
  * File: /User/frank/C++/SNRCalc/QuantizerSNR.h                                 *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 10/20/00 - Started.                                                      *
- *  2. 12/05/01 - Modify noise density when setting SNR.                        *
  ********************************************************************************/
 #include "QuantizerSNR.h"
 #include "NoiseCorrelation.h"

@@ -5,9 +5,6 @@
  * File:Quantize.cc                                                     *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 09/18/00  - Started                                              *
- *  2. 11/02/00  - Add quantizerStepSize().                             *
  ************************************************************************/
 
 #include <stdio.h>

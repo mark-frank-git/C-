@@ -2,9 +2,6 @@
  * This subclass of Object implements a QAM constellation mapper.               *
  * File: QAMMapper.h                                                            *
  *                                                                              *
- * Revision history:                                                            *
- *   1. 03/28/03 - Started                                                      *
- *                                                                              *
  ********************************************************************************/
 #include "QAMMapper.h"
 #include <stdio.h>

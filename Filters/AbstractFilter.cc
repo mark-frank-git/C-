@@ -22,8 +22,6 @@
  *       is equal to n+1.                                               *
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 01/05/04  - Abstracted from AbstractFilter                       *
  ************************************************************************/
 
 #include "AbstractFilter.h"                                     // Object prototypes

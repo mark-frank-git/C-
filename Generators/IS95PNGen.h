@@ -8,8 +8,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/IS95PNGen.h                                 *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 03/16/01 - Started.                                                      *
  ********************************************************************************/
 
 #ifndef LOGICAL

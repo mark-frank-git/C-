@@ -6,9 +6,6 @@
  *                                                                      *
  * File:PolyphaseDecimator.cc                                           *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 04/05/02  - Started.                                             *
  ************************************************************************/
 
 #include "PolyphaseDecimator.h"                                 // Object prototypes

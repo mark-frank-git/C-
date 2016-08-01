@@ -5,8 +5,6 @@
  * See the subclasses, BlockDeleave and BlockInterleave for real implementations*
  * File: BlockLeaveDeleave.h                                                    *
  *                                                                              *
- * Revision history:                                                            *
- *   1. 04/24/01 - Started                                                      *
  *                                                                              *
  ********************************************************************************/
 #ifndef LOGICAL

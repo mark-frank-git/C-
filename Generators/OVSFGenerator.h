@@ -6,9 +6,6 @@
  *                                                                              *
  * File: OVSFGenerator.h                                                        *
  *                                                                              *
- * Revision history:                                                            *
- *   1. 06/27/01 - Started                                                      *
- *                                                                              *
  * Notes:                                                                       *
  * 1. The VSF code functions have values of 0 or 1.                             *
  * 2. Reference is "Spreading codes for direct sequence CDMA and wideband       *

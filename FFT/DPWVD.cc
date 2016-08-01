@@ -9,9 +9,6 @@
  *  1. [PAC04]:P.E. Pace, Detecting and Classifying Low Probability of          *
  *  Intercept Radar, Artech House, 2004.                                        *
  *                                                                              *
- *                                                                              *
- * Revision history:                                                            *
- *  1. 08/04/05  - Started.                                                     *
  *********************************************************************************/
 
 /**************************

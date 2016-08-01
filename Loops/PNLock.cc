@@ -4,8 +4,6 @@
  *                                                                      *
  * File:PNLock.cc                                                       *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 11/23/01  - Subclassed from PhaseLocked.                         *
  ************************************************************************/
 
 #include "PNLock.h"                                     // Object prototypes

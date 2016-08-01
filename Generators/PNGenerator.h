@@ -24,8 +24,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/PNGenerator.h                               *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 02/06/00 - Started.                                                      *
  ********************************************************************************/
 #define MSRG_TYPE       0
 #define SSRG_TYPE       1

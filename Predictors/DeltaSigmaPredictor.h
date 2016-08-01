@@ -24,8 +24,6 @@
  * Where the IF and BW frequencies are given in rad/s.  See the January *
  * 2000 issue of the IEEE Signal Processing Magazine for more details.  *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 04/04/00  - Started.                                             *
  ************************************************************************/
 
 #ifndef YES

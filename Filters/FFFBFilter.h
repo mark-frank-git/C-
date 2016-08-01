@@ -26,10 +26,6 @@
  * function zeros. Also, note that the coefficients and poles are       *
  * complex in order to effect a bandpass filter.                        *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 04/24/00  - Started.                                             *
- *  2. 01/05/01  - Modified (corrected) filter operation.               *
  ************************************************************************/
 #include <stdio.h>
 #include <DataIO/TestData.h>

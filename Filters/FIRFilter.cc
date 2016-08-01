@@ -14,9 +14,6 @@
  * Where the a and b polynomials are stored in the polynomial objects.  *
  * NOTE: The order of the filter is the # taps - 1.                     *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 01/06/00 - Derived from DigitalFilter.                           *
  ************************************************************************/
 
 #include "FIRFilter.h"                                  // Object prototypes

@@ -3,8 +3,6 @@
  * See the subclasses, BlockDeleave and BlockInterleave for real implementations*
  * File: BlockLeaveDeleave.cc                                                   *
  *                                                                              *
- * Revision history:                                                            *
- *   1. 04/24/01 - Started                                                      *
  *                                                                              *
  ********************************************************************************/
 #include "BlockLeaveDeleave.h"

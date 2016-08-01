@@ -15,8 +15,6 @@
  * NOTE: The order of the filter is the # taps - 1.                     *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 03/12/04 - Abstracted from FIRFilter.                            *
  ************************************************************************/
 
 #include "AbstractFIR.h"                                        // Object prototypes

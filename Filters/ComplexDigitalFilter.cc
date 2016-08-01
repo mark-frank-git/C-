@@ -20,9 +20,6 @@
  *                                                                      *
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 10/11/03  - Started.                                             *
  ************************************************************************/
 
 #include "ComplexDigitalFilter.h"                                       // Object prototypes

@@ -17,8 +17,6 @@
  * See: Y. Xiao and K. Shida, "New gradient-based algorithms for        *
  * adaptive IIR notch filters, Proc. ICSP '98, pp. 453-456.             *
  *                                                                      *
- * Revision history:                                                    *
- *  1.  10/15/01  - Started.                                            *
  ************************************************************************/
 
 #include "AdaptiveNotch.h"                                      // Object prototypes

@@ -4,10 +4,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/PulseGenerator.h                            *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 08/11/00 - Started.                                                      *
- *  2. 11/19/01 - Add pulseOverflow() output.                                   *
- *  3. 03/30/02 - Modify pulse timer initialization to get more accuracy.       *
  ********************************************************************************/
 #include <stdio.h>
 #include "PulseGenerator.h"

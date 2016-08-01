@@ -6,11 +6,6 @@
  * user's _velocity.                                                            *
  * File: /User/frank/C++/Generators/JakesGenerator.h                            *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 05/03/01 - Started.                                                      *
- *  2. 12/05/02 - Updated to use random starting phases per Li and Huang, "The  *
- *                simulation of independent Rayleigh faders," IEEE Trans. Comm. *
- *                vol. 50, no. 9, Sept. 2002.                                   *
  ********************************************************************************/
 #if defined(WIN32)
 #include <GNU/Complex.h>

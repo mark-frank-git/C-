@@ -6,9 +6,6 @@
  *                                                                      *
  * File:Interpolator.h                                                  *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 06/08/02  - Started.                                             *
  ************************************************************************/
 
 #ifndef LOGICAL

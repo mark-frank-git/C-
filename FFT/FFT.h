@@ -7,8 +7,6 @@
  *                                                                      *
  * File: FFT.h                                                          *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 08/27/05  - Started                                              *
  ************************************************************************/
 #if defined (_WIN32) && defined (NeXT_PDO)
 #include <GNU/Complex.h>

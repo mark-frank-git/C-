@@ -30,8 +30,6 @@
  *       is equal to n+1.                                               *
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 10/08/02  - Started as subclass of AbstractFilter                *
  ************************************************************************/
 
 #include "ComplexFilter.h"                                      // Object prototypes

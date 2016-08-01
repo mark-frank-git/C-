@@ -16,8 +16,6 @@
  * 207 models," IEE Colloquium on Computer Modeling of Communication    *
  * Systems, 1994, pp. 8/1-8/6.                                          *
  *                                                                      *
- * Revision history:                                                    *
- *  1.  10/23/01  - Started.                                            *
  ************************************************************************/
 
 #include "RicianDopplerFilter.h"                                // Object prototypes

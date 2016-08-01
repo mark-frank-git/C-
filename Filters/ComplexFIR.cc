@@ -15,9 +15,6 @@
  * NOTE: The order of the filter is the # taps - 1.                     *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 04/20/05 - Modified from AbstractFIR.                            *
- *  2. 04/25/06 - Added findPower()                                     *
  ************************************************************************/
 #include "ComplexDigitalFilter.h"
 #include "ComplexFIR.h"                                 // Object prototypes

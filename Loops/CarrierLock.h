@@ -6,8 +6,6 @@
  *                                                                      *
  * File:CarrierLock.h                                                   *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 11/23/01  - Subclassed from PhaseLocked.                         *
  ************************************************************************/
 #include "PhaseLocked.h"
 

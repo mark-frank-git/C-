@@ -7,9 +7,6 @@
  *                                                                      *
  * File:LagrangeInterpolator.cc                                         *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 08/23/00  - Started.                                             *
  ************************************************************************/
 
 #include "LagrangeInterpolator.h"                                       // Object prototypes

@@ -9,8 +9,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/GSMFreqGenerator.h                          *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 06/06/2012 - Started.                                                    *
  ********************************************************************************/
 
 #ifndef LOGICAL

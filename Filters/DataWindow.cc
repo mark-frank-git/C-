@@ -6,8 +6,6 @@
  *                                                                      *
  * File:DataWindow.cc                                                   *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 04/29/02  - Extracted from DigitalFilter                         *
  ************************************************************************/
 
 #include "DataWindow.h"                                   // Object prototypes

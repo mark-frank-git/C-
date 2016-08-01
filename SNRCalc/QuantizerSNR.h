@@ -6,8 +6,6 @@
  *                                                                              *
  * File: /User/frank/C++/SNRCalc/QuantizerSNR.h                                 *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 10/20/00 - Started.                                                      *
  ********************************************************************************/
 
 #ifndef LOGICAL

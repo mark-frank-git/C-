@@ -6,8 +6,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/ClockGenerator.h                            *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 10/10/00 - Started.                                                      *
  ********************************************************************************/
 #include <stdio.h>
 #include "ClockGenerator.h"

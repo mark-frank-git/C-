@@ -4,8 +4,6 @@
  *                                                                              *
  * File: /User/frank/C++/Buffers/ComplexBuffer.cc                               *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 10/24/01 - Started.                                                      *
  *                                                                              *
  ********************************************************************************/
 #include        "ComplexBuffer.h"

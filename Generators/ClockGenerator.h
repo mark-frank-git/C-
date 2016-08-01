@@ -8,8 +8,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/ClockGenerator.h                            *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 10/10/00 - Started.                                                      *
  ********************************************************************************/
 #define MIN_PERIOD              1.e-30          // min pulse period
 #define MIN_DUTY                0.0001          // Minimum duty cycle

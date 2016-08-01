@@ -20,9 +20,6 @@
  *                               vector.                                *
  * The purpose of this class is to solve for the coefficient vector, A  *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 04/04/00  - Started.                                             *
  ************************************************************************/
 
 #include <math.h>

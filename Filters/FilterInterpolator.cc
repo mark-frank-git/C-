@@ -11,8 +11,6 @@
  * 1. For each output point center the filter at the output point.      *
  * 2. With the filter centered at the output point, 
  *                                                                      *
- * Revision history:                                                    *
- *  1. 08/23/01  - Started.                                             *
  ************************************************************************/
 
 #include "FilterInterpolator.h"                                 // Object prototypes

@@ -6,8 +6,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/SawGenerator.h                              *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 11/23/04 - Started.                                                      *
  ********************************************************************************/
 
 #define MIN_WIDTH               1.e-35          // min saw width

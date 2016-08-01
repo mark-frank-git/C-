@@ -6,9 +6,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/PulseGenerator.h                            *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 08/11/00 - Started.                                                      *
- *  2. 11/19/01 - Add pulseOverflow() output.                                   *
  ********************************************************************************/
 
 #define RECTANGULAR_PULSE       0               // pulse types

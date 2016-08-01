@@ -25,8 +25,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/PNBuffered.h                                *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 01/21/00 - Started.                                                      *
  ********************************************************************************/
 
 #ifndef LOGICAL

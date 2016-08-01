@@ -7,8 +7,6 @@
  *                                                                      *
  * File:PhaseLocked.h                                                   *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 12/19/00  - Started.                                             *
  ************************************************************************/
 #include <GNU/Complex.h>
 

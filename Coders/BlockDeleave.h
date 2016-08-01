@@ -5,8 +5,6 @@
  * and reads by out by columns.                                                 *
  * File: BlockDeleave.h                                                         *
  *                                                                              *
- * Revision history:                                                            *
- *   1. 04/24/01 - Started                                                      *
  *                                                                              *
  ********************************************************************************/
 #include "BlockLeaveDeleave.h"

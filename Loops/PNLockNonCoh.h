@@ -7,8 +7,6 @@
  *                                                                      *
  * File:PNLockNonCoh.h                                                  *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 03/17/01  - Subclassed from PNLock.                              *
  ************************************************************************/
 #include "PNLock.h"
 class   IIRFilter;

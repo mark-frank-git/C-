@@ -7,9 +7,6 @@
  *                                                                      *
  * File:GSMTapFading.h                                                  *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1.  12/19/01  - Started.                                            *
  ************************************************************************/
 class   Complex;
 class   JakesGenerator;

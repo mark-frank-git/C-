@@ -16,9 +16,6 @@
  * Where b polynomials are stored in the polynomial objects.            *
  * NOTE: The order of the filter is the # taps - 1.                     *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 03/13/01 - Started.                                              *
  ************************************************************************/
 
 #include "DelayFIR.h"                                   // Object prototypes

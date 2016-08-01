@@ -22,8 +22,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/PNGenerator.cc                              *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 02/06/00 - Started.                                                      *
  ********************************************************************************/
 #include <stdio.h>
 #include "PNGenerator.h"

@@ -7,8 +7,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/GSMSyncGenerator.cc                         *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 04/19/2012 - Started.                                                    *
  ********************************************************************************/
 #include <stdio.h>
 #include "GSMSyncGenerator.h"

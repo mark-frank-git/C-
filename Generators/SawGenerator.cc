@@ -4,8 +4,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/SawGenerator.h                              *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 11/23/04 - Started.                                                      *
  ********************************************************************************/
 #include <stdio.h>
 #include "SawGenerator.h"

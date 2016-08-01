@@ -7,8 +7,6 @@
  *                                                                      *
  * File: PowerSpectrum.h                                                *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 10/06/05  - Started                                              *
  ************************************************************************/
 #include    "FFT.h"
 

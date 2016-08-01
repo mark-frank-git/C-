@@ -4,8 +4,6 @@
 **  \description  This class takes input I/Q data and outputs symbol estimates
 **  \project      BlockDraw
 **  \author       Mark Frank
-** Revision history:
-**  1. 10/17/09  - Started
 */ /*
 *******************************************************************************/
 #ifndef _SYMBOL_ESTIMATE_H

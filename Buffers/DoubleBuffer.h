@@ -6,8 +6,6 @@
  *                                                                              *
  * File: /User/frank/C++/Misc/DoubleBuffer.h                                    *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 06/09/00 - Started.                                                      *
  *                                                                              *
  ********************************************************************************/
 #include "AbstractBuffer.h"

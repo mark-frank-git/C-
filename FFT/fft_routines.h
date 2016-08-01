@@ -8,8 +8,6 @@
  *                                                                      *
  *  File: fft_routines.h                                                *
  *                                                                      *
- *  Revisions History:                                                  * 
- *   08/27/05  - started.                                               *
  ************************************************************************/
 
 #define INVERSE_FFT             -1              // See _operationType below

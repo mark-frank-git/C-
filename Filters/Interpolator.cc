@@ -4,9 +4,6 @@
  *                                                                      *
  * File:Interpolator.cc                                                 *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 06/08/02  - Started.                                             *
  ************************************************************************/
 #include        "Interpolator.h"
 #include        <stdio.h>

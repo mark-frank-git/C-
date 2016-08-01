@@ -8,8 +8,6 @@
  *                                                                      *
  * File:DataWindow.h                                                    *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 04/29/02  - Extracted from DigitalFilter                         *
  ************************************************************************/
 //
 // The following are the types of windows that are available

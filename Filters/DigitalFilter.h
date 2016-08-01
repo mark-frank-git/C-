@@ -24,9 +24,6 @@
  * Where the a and b polynomials are stored in the polynomial objects.  *
  * NOTE: The order of the filter is the # taps - 1.                     *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 12/30/01  - Objective-C -> C++                                   *
  ************************************************************************/
 
 #include        "RealFilter.h"

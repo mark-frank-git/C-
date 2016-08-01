@@ -6,9 +6,6 @@
  *                                                                      *
  * File:PolyphaseDelay.cc                                               *
  *                                                                      *
- *                                                                      *
- * Revision history:                                                    *
- *  1. 04/05/02  - Started.                                             *
  ************************************************************************/
 
 #include "PolyphaseDelay.h"                                     // Object prototypes

@@ -6,8 +6,6 @@
  *                                                                      *
  * File:PNLock.h                                                        *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 11/23/01  - Subclassed from PhaseLocked.                         *
 ************************************************************************/
 #include "PhaseLocked.h"
 #include <stdio.h>

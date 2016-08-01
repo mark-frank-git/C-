@@ -8,8 +8,6 @@
  *                                                                              *
  * File: /User/frank/C++/Misc/AbstractBuffer.h                                  *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 06/09/00 - Started                                                       *
  *                                                                              *
  ********************************************************************************/
 class AbstractBuffer

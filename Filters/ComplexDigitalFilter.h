@@ -23,10 +23,7 @@
  * Where the a and b polynomials are stored in the polynomial objects.  *
  *                                                                      *
  *                                                                      *
- * Revision history:                                                    *
- *  1. 10/11/03  - Started.                                             *
- *  2. 01/30/02  - Add shiftCoefficientsByFrequency().                  *
- *  3. 03/19/02  - Add convertCoefficientsToZ().                        * ************************************************************************/
+************************************************************************/
 
 #include        "ComplexFilter.h"
 

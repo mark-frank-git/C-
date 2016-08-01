@@ -4,8 +4,6 @@
  *                                                                              *
  * File: WalshCodes.c                                                           *
  *                                                                              *
- * Revision history:                                                            *
- *   1. 04/15/01 - Started                                                      *
  * Notes:                                                                       *
  * 1. See Lewis Franks, "Signal Theory" for Walsh function generation formulae. *
  * 2. The Walsh code functions have values of 0 or 1.                           *

@@ -5,8 +5,6 @@
  *                                                                              *
  * File: /User/frank/C++/Generators/BinaryRationalNCO.h                         *
  *                                                                              *
- * Revision History:                                                            *
- *  1. 01/18/01 - Started.                                                      *
  ********************************************************************************/
 #include <stdio.h>
 #include "BinaryRationalNCO.h"
